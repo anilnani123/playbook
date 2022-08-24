@@ -1,5 +1,5 @@
 ---
-- name: Restar ttomcat
+- name: Restar tomcat
   service: 
     name: "{{a}}"
     state: "{{k}}"
